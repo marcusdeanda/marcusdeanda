@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @marqthebuilder
 - 👀 I’m interested in helping others
-- 🌱 I’m currently learning Linux Under the Hood
-- 💞️ I’m looking to collaborate on Python and Java projects
 - 📫 How to reach me @marqthebuilder IG and marqthebuilder@gmail.com
 
 <!---
